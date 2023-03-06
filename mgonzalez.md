@@ -6,7 +6,7 @@
 
 Now, I am working in another job, like administrative, that has nothing to do with this sector and I want to change it to improve personally and professionally towards the technologies sector.
 
-------
+----------
 
 ### Week 1
   - Class 1:
