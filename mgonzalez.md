@@ -1,4 +1,4 @@
-<!-- > http://localhost:8080/mgonzalez/index.html
+ <!-- > http://localhost:8080/mgonzalez/index.html
 > npx @11ty/eleventy --serve   para pasarlo a html ojo tiene que ser desde la ruta donde esta el archivo -->
 # Hi there 👋, I'm **Manuel Gonzalez Martinez**, a project of *developer*💻...
 
